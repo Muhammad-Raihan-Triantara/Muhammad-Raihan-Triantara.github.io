@@ -1,0 +1,27 @@
+body{
+	background-image: url("hah.png"); 
+}
+
+h1{
+	text-align: left;
+	color: indianred;
+}
+
+#image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+p{
+	text-align: justify;
+	color: olive;
+}
+
+h2{
+	text-align: center;
+	color: teal;
+}
+
+img{
+	border-radius: 50%;
+}
